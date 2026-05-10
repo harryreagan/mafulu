@@ -2,7 +2,7 @@
 
 Mafullu is a streamlined, enterprise-grade digital marketplace designed for secure and efficient delivery of digital goods. Built with Laravel, it focuses on trust, simplicity, and a premium user experience, specifically tailored for high-value digital assets like templates, courses, and ebooks.
 
-## 🚀 Key Features
+## Key Features
 
 - **Crypto-Integrated Checkout**: Native support for BTC and USDT payments with real-time rate fetching.
 - **Secure File Delivery**: Single-use, private download links with 48-hour expiration logic.
@@ -11,14 +11,14 @@ Mafullu is a streamlined, enterprise-grade digital marketplace designed for secu
 - **Admin Dashboard**: Comprehensive management of products, orders, coupons, and sales analytics.
 - **Trust-First UX**: Integrated testimonials and trust indicators to boost conversion rates.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Laravel 11.x
 - **Frontend**: Blade Templates, Tailwind CSS
 - **Database**: MySQL/MariaDB
 - **Payments**: BTC (Bitcoin), USDT (Tether)
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**:
    ```bash
@@ -59,7 +59,7 @@ Mafullu is a streamlined, enterprise-grade digital marketplace designed for secu
    php artisan storage:link
    ```
 
-## 🔐 Administration
+## Administration
 
 The admin panel provides full control over the marketplace. Configure your admin credentials in the `.env` file:
 ```env
@@ -67,7 +67,7 @@ ADMIN_EMAIL=admin@mafullu.com
 ADMIN_PASSWORD=your_secure_password
 ```
 
-## 📄 License
+## License
 
 The Mafullu platform is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
